@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.09*: &nbsp; Excited to share that our work "Model Balancing Improves Low-data Training and Fine-tuning" is accepted by [EMNLP 2024](https://2024.emnlp.org/).
+- *2024.09*: &nbsp; Excited to share that our work "Model Balancing Helps Low-data Training and Fine-tuning" is accepted by [EMNLP 2024](https://2024.emnlp.org/).
 
 # 📝 Publications 
 
@@ -37,6 +37,10 @@ My research interest includes neural machine translation and computer vision. I 
 **Model Balancing Helps Low-data Training and Fine-tuning**
 
 **Zihang Liu**, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ), [Tianyu Pang](), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[**Code**](https://github.com/ZihangHLiu/ModelBalancing) \|
+
+**EMNLP 2024 Main Track**
 
 </div>
 </div>
