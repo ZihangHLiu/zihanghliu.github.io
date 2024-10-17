@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zihang Liu**, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ), [Tianyu Pang](), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[**Code**](https://github.com/ZihangHLiu/ModelBalancing) \|
+[**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**arXiv**](https://arxiv.org/abs/2410.12178)
 
 **EMNLP 2024 Oral**
 
