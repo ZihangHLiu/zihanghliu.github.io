@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zihang (You can also call me Henry). I am a master student at [Berkeley EECS](https://eecs.berkeley.edu/). I have the privilage to work with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/) and [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) from [UC Berkeley](https://www.icsi.berkeley.edu/). 
+Hi, I am Zihang (You can also call me Henry). I am a master student at [Berkeley EECS](https://eecs.berkeley.edu/). I have the privilege to work with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/) and [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) from [UC Berkeley](https://www.icsi.berkeley.edu/). 
 
 My research focus is to improve the robustness and efficiency of learning models from the perspectives of weight matrices, high-dimensional feature space, and loss landscapes. I also use these techniques in applications like vision and scientific problems.
 
