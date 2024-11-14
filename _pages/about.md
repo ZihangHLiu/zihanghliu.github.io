@@ -27,6 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2024.11*: &nbsp; Gave a presentation at EMNLP 2024 on [model diagnosis](https://aclanthology.org/2024.emnlp-main.78/), check out the live recording [here](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true).
 - *2024.09*: &nbsp; Excited to share that our work "Model Balancing Helps Low-data Training and Fine-tuning" is accepted by [EMNLP 2024](https://2024.emnlp.org/) as **Oral Presentation**.
 
 # 📝 Publications 
@@ -38,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zihang Liu**, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ), [Tianyu Pang](), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**arXiv**](https://arxiv.org/abs/2410.12178)
+[**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**arXiv**](https://arxiv.org/abs/2410.12178) \| [**Video**](https://drive.google.com/file/d/1JtYKVhZBslAEZUrH6Z7UEVCq-1cSz1Ot/view?usp=sharing)
 
 **EMNLP 2024 Oral**
 
